@@ -1,0 +1,38 @@
+Data Import & Preprocessing
+
+- Import train
+- Combine train with directors and writing
+- Download Reviews?
+
+Data Preprocessing
+
+- single year column - DONE
+- runtime outlier & null imputation - DONE
+- numVotes outliers & null imputation - DONE
+- techniques for data quality & stability? (e.g outlier capturing)
+
+Feature Engineering
+
+- director score
+- writer score
+- title analysis (e.g. sentiment)
+- review analysis (e.g. sentiment)
+
+ML
+
+- XGBoost
+- check feature importance
+
+Experimentation
+
+# Present experimental evidence on how your data integration, cleaning and preparation
+
+# techniques impact the data quality, stability or predictive performance of your pipeline
+
+- effect of runtime & numVotes imputation
+- effect of feature engineering
+- effect of including reviews?
+
+Model To-Do
+
+- Balance binary labels

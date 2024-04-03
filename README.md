@@ -1,1 +1,1 @@
-![Screenshot](poster.pdf)
+![Screenshot](poster.png)

@@ -1,5 +1,1 @@
-
-
-[poster.pdf](https://github.com/dsp-norm-extractor/.github/files/14156375/poster.pdf)
-
-
+![poster](https://github.com/stathis99/Identifying-Blockbusters-to-Flops/blob/main/poster.pdf)
